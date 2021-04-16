@@ -1,0 +1,33 @@
+{
+  "id": "70bb0ca6-8121-4405-8f05-1888f21c6ae2",
+  "name": "Fun with Interfaces 3: Extension",
+  "publisher": "Vjeko.live",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "cccb173e-9394-4d91-80d2-c97f322f7133",
+      "name": "Fun with Interfaces 3: Core",
+      "publisher": "Vjeko.live",
+      "version": "1.0.0.0"    
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50120,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://LoyaltyExtensionApp.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
